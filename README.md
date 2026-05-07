@@ -24,3 +24,6 @@ Update the placeholder email, GitHub, LinkedIn, bio, and project cards in
 Your site will be available at:
 
 `https://YOUR-GITHUB-USERNAME.github.io/leo-lia/`
+
+---
+Last updated: 2026-05-07
